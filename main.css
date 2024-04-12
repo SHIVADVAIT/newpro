@@ -2,7 +2,7 @@
 	--dark: #374151;
 	--darker: #1F2937;
 	--darkest: #111827;
-	--grey: #6B7280;
+	--grey: #6B7290;
 	--pink: #e2187d;
 	--purple: #491ab8;
 	--light: #EEE;
@@ -24,7 +24,7 @@ body {
 }
 
 header {
-	padding: 2rem 1rem;
+	padding: 2rem 2rem;
 	max-width: 800px;
 	width: 100%;
 	margin: 0 auto;
